@@ -1,0 +1,11 @@
+boto3 
+python-dotenv 
+slack-bolt 
+openpyxl 
+schedule 
+langchain 
+langchain-community 
+slack_sdk 
+pandas 
+langchain-core 
+langchain-openai
